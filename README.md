@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Shriraj</h1>
 <h3 align="left">AI • Backend • Distributed Systems</h3>
 
-<p align="center">
+<p align="left">
 Building intelligent software using AI, event-driven architectures, and scalable backend systems.
 </p>
 
