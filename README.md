@@ -59,7 +59,7 @@ Building intelligent software using AI, event-driven architectures, and scalable
 
 # 🚀 Featured Projects
 
-## 🤖 AI Multi-Agent Platform (https://github.com/shriza1991/KYC.git)
+## 🤖 [KYC - AI Face Verification System](https://github.com/shriza1991/KYC)
 
 Distributed AI agent system built using **FastAPI**, **Kafka**, and **Docker**, where multiple specialized agents communicate asynchronously through an event-driven architecture.
 
@@ -118,17 +118,6 @@ KYC verification pipeline using InsightFace and MediaPipe.
 - Machine Learning
 - System Design
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
