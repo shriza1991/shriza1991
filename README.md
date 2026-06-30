@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shriraj</h1>
-<h3 align="center">AI • Backend • Distributed Systems</h3>
+<h1 align="left">Hi 👋, I'm Shriraj</h1>
+<h3 align="left">AI • Backend • Distributed Systems</h3>
 
 <p align="center">
 Building intelligent software using AI, event-driven architectures, and scalable backend systems.
@@ -59,7 +59,7 @@ Building intelligent software using AI, event-driven architectures, and scalable
 
 # 🚀 Featured Projects
 
-## 🤖 [KYC - AI Face Verification System](https://github.com/shriza1991/KYC)
+## [DeployGuard](https://github.com/shriza1991/DeployGuard.git)
 
 Distributed AI agent system built using **FastAPI**, **Kafka**, and **Docker**, where multiple specialized agents communicate asynchronously through an event-driven architecture.
 
@@ -72,7 +72,7 @@ Distributed AI agent system built using **FastAPI**, **Kafka**, and **Docker**, 
 
 ---
 
-## 🛡️ MuleShield AI
+## 🛡️ [FundTrace AI](https://github.com/shriza1991/FundTrace-AI.git)
 
 AI-powered banking fraud detection platform combining Machine Learning, Graph Analytics, OCR and Explainable AI.
 
@@ -85,7 +85,7 @@ AI-powered banking fraud detection platform combining Machine Learning, Graph An
 
 ---
 
-## 🎙️ AwaazSetu
+## 🎙️ [AwaazSetu](https://github.com/acchasujal/Setu.git)
 
 Voice-first AI assistant powered by Retrieval-Augmented Generation for multilingual knowledge retrieval.
 
@@ -98,7 +98,7 @@ Voice-first AI assistant powered by Retrieval-Augmented Generation for multiling
 
 ---
 
-## 👤 AI Face Verification
+## 👤 [KYC - AI Face Verification System](https://github.com/shriza1991/KYC)
 
 KYC verification pipeline using InsightFace and MediaPipe.
 
@@ -123,7 +123,7 @@ KYC verification pipeline using InsightFace and MediaPipe.
 
 # 🎯 2026 Goals
 
-- ✅ 500+ DSA Problems
+- ✅ 300+ DSA Problems
 - 🚀 Open Source Contributions
 - 🤖 Build Production AI Systems
 - 💼 Secure an AI/Backend Internship
