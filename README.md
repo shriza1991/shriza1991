@@ -98,7 +98,7 @@ Voice-first AI assistant powered by Retrieval-Augmented Generation for multiling
 
 ---
 
-## 👤 [KYC - AI Face Verification System](https://github.com/shriza1991/KYC)
+## 👤 [KYC - AI Face Verification System](https://github.com/aditya123223/Bruh_KYC)
 
 KYC verification pipeline using InsightFace and MediaPipe.
 
@@ -123,7 +123,7 @@ KYC verification pipeline using InsightFace and MediaPipe.
 
 # 🎯 2026 Goals
 
-- ✅ 300+ DSA Problems
+- ✅ 200+ DSA Problems
 - 🚀 Open Source Contributions
 - 🤖 Build Production AI Systems
 - 💼 Secure an AI/Backend Internship
